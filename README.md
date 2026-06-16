@@ -176,38 +176,26 @@ information-security-repo/
 
 The course is structured into **9 core chapters**, each designed to be completed in approximately **one week** of dedicated study (3–5 hours per chapter).
 
-| Week | Chapter | Title | Key Topics |
-| :---: | :---: | :--- | :--- |
-| 1 | 1 | Introduction to Information Security | CIA Triad, IT domains, security governance, human factors |
-| 2 | 2 | Emerging Technologies & Their Impact | IoT, AI, 3D printing, cloud, security/privacy challenges |
-| 3 | 3 | Risks, Threats, and Vulnerabilities | Risk management lifecycle, threat modeling, attack vectors |
-| 4 | 4 | Business Drivers of Information Security | BIA, BCP, DRP, compliance laws, gap analysis, BYOD |
-| 5 | 5 | Access Controls | Identification, authentication, authorization, accountability, RBAC, MAC, DAC |
-| 6 | 6 | Cryptography | Symmetric/asymmetric encryption, hashing, PKI, digital signatures |
-| 7 | 7 | Malicious Software & Attack Vectors | Viruses, worms, Trojans, ransomware, botnets, social engineering |
-| 8 | 8 | Security Operations & Administration | Policies, standards, baselines, change management, SDLC security |
-| 9 | 9 | Auditing, Testing, and Monitoring | Security audits, IDS/IPS, log management, penetration testing, hardening |
+| Chapter | Title                                    | Key Topics                                                                    |
+| :-----: | :--------------------------------------- | :---------------------------------------------------------------------------- |
+|    1    | Introduction to Information Security     | CIA Triad, IT domains, security governance, human factors                     |
+|    2    | Emerging Technologies & Their Impact     | IoT, AI, 3D printing, cloud, security/privacy challenges                      |
+|    3    | Risks, Threats, and Vulnerabilities      | Risk management lifecycle, threat modeling, attack vectors                    |
+|    4    | Business Drivers of Information Security | BIA, BCP, DRP, compliance laws, gap analysis, BYOD                            |
+|    5    | Access Controls                          | Identification, authentication, authorization, accountability, RBAC, MAC, DAC |
+|    6    | Cryptography                             | Symmetric/asymmetric encryption, hashing, PKI, digital signatures             |
+|    7    | Malicious Software & Attack Vectors      | Viruses, worms, Trojans, ransomware, botnets, social engineering              |
+|    8    | Security Operations & Administration     | Policies, standards, baselines, change management, SDLC security              |
+|    9    | Auditing, Testing, and Monitoring        | Security audits, IDS/IPS, log management, penetration testing, hardening      |
 
 ### Total Estimated Time to Complete
 
-| Activity | Hours |
-| :--- | :--- |
-| Reading & studying chapter content | 20–30 hours |
-| Hands-on labs & software exercises | 15–20 hours |
-| Class activities & final project | 10–15 hours |
-| Mid-Exam Preparation | 5–8 hours |
-| Final Exam Preparation | 8–10 hours |
-| **Total (approximate)** | **58–83 hours** |
-
----
-
-## 📊 Assessment Structure
-
-| Assessment Component | Weight |
-| :--- | :--- |
-| Mid-Exam | 30% |
-| Class Activities & Final Project | 20% |
-| Final Exam | 50% |
+| Activity                           | Hours           |
+| :--------------------------------- | :-------------- |
+| Reading & studying chapter content | 20–30 hours     |
+| Hands-on labs & software exercises | 15–20 hours     |
+| Class activities & final project   | 10–15 hours     |
+| **Total (approximate)**            | **45–65 hours** |
 
 ---
 
@@ -426,8 +414,7 @@ This course material is provided for **educational purposes only**.
 
 **Instructor:** Guuleed Maxamuud Aw Abdi
 
-- **Email:** [Available through course platforms]
-- **Course Repository:** [GitHub Link]
+- **Email:** guuleedmaxamuud40@gmail.com
 
 ---
 
