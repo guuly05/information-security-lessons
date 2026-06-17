@@ -41,7 +41,7 @@ Whether you are a student pursuing a career in cybersecurity, an IT professional
 - Information Security Professional and Educator
 - Expertise in security operations, risk management, and penetration testing
 - Committed to building the next generation of cybersecurity professionals
-- Contact: [Available through course platforms]
+- Contact:guuleedmaxamuud40@gmail.com
 
 ---
 
