@@ -440,11 +440,10 @@ This course material is provided for **educational purposes only**.
 
 ## 📊 Repository Statistics
 
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/information-security-repo)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/information-security-repo?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/information-security-repo?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/information-security-repo?style=social)
-
+![GitHub repo size](https://img.shields.io/github/repo-size/guuly05/information-security-lessons)
+![GitHub stars](https://img.shields.io/github/stars/guuly05/information-security-lessons?style=social)
+![GitHub forks](https://img.shields.io/github/forks/guuly05/information-security-lessons?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/guuly05/information-security-lessons?style=social)
 ---
 
 ## 📄 Quick Reference Card
