@@ -95,8 +95,9 @@ Together, Kim and Solomon bring practical, real-world security expertise grounde
 
 ```
 information-security-repo/
-├── README.md                          # Main course overview
-├── books/                             # Recommended reading materials
+├── README.md                                    # Main course overview
+│
+├── books/                                       # Recommended Reading Materials
 │   ├── Countdown_to_Zero_Day_Stuxnet.pdf
 │   ├── Dark_Wire.pdf
 │   ├── Ghost_in_the_Wires.pdf
@@ -107,7 +108,7 @@ information-security-repo/
 │   ├── Tribe_of_Hackers.pdf
 │   └── Web_Application_Hackers_Handbook.pdf
 │
-├── chapters/                          # 9 Core chapters
+├── chapters/                                    # 9 Core Chapters
 │   ├── Chapter_01_Introduction.md
 │   ├── Chapter_02_Emerging_Tech.md
 │   ├── Chapter_03_Risks_Threats_Vulnerabilities.md
@@ -118,61 +119,103 @@ information-security-repo/
 │   ├── Chapter_08_Security_Operations.md
 │   └── Chapter_09_Auditing_Monitoring_Testing.md
 │
-├── labs/                              # 9 Practical labs
-│   ├── Lab_01_Kali_Installation.pdf
-│   ├── Lab_02_Nmap_Scanning.pdf
-│   ├── Lab_03_John_The_Ripper.pdf
-│   ├── Lab_04_Wireshark_Analysis.pdf
-│   ├── Lab_05_SQL_Injection_DVWA.pdf
-│   ├── Lab_06_Metasploit_Basics.pdf
-│   ├── Lab_07_Network_Sniffing.pdf
-│   ├── Lab_08_Password_Cracking_Advanced.pdf
-│   └── Lab_09_Incident_Response_Simulation.pdf
+├── exams/                                       # Examinations and Assessments
+│   ├── chapter-quizzes/
+│   │   ├── Quiz_01_Introduction.tex
+│   │   ├── Quiz_02_Emerging_Tech.tex
+│   │   ├── Quiz_03_Risks_Threats.tex
+│   │   ├── Quiz_04_Business_Drivers.tex
+│   │   ├── Quiz_05_Access_Controls.tex
+│   │   ├── Quiz_06_Cryptography.tex
+│   │   ├── Quiz_07_Malware.tex
+│   │   ├── Quiz_08_Security_Ops.tex
+│   │   └── Quiz_09_Auditing_Monitoring.tex
+│   │
+│   ├── answer-keys/
+│   │   ├── Quiz_01_Answer_Key.tex
+│   │   ├── Quiz_02_Answer_Key.tex
+│   │   ├── Quiz_03_Answer_Key.tex
+│   │   ├── Quiz_04_Answer_Key.tex
+│   │   ├── Quiz_05_Answer_Key.tex
+│   │   ├── Quiz_06_Answer_Key.tex
+│   │   ├── Quiz_07_Answer_Key.tex
+│   │   ├── Quiz_08_Answer_Key.tex
+│   │   └── Quiz_09_Answer_Key.tex
+│   │            
 │
-├── case-studies/                      # Real-world security incidents
-│   ├── Case_Study_Equifax_Breach.pdf
-│   ├── Case_Study_WannaCry_Ransomware.pdf
-│   ├── Case_Study_Target_Breach.pdf
-│   ├── Case_Study_GDPR_Fines.pdf
-│   ├── Case_Study_SolarWinds_Supply_Chain.pdf
-│   ├── Case_Study_Colonial_Pipeline.pdf
-│   └── Case_Study_Log4j_Zero_Day.pdf
-│
-├── policy-templates/                  # Professional security templates
-│   ├── Security_Policy_Template.pdf
-│   ├── Risk_Assessment_Template.pdf
-│   ├── Incident_Response_Plan_Template.pdf
-│   ├── BCP_DRP_Template.pdf
-│   └── Final_Project_Report_Template.pdf
-│
-├── security-frameworks/               # Industry frameworks guides
-│   ├── NIST_SP_800-30_Summary.pdf
-│   ├── ISO_27001_Checklist.pdf
-│   ├── PCI_DSS_Quick_Reference.pdf
-│   ├── COBIT_2019_Overview.pdf
-│   ├── NIST_CSF_Quick_Guide.pdf
-│   ├── OWASP_Top_10_2023.pdf
-│   └── MITRE_ATTACK_Matrix_Guide.pdf
-│
-├── further-study/                     # Additional learning resources
-│   ├── Recommended_Books.md
-│   ├── Podcasts_Youtube_Channels.md
-│   └── Certification_Study_Maps.md
-│
-├── cheat-sheets/                      # Quick reference guides
-│   ├── Linux_Commands_Cheat_Sheet.pdf
-│   ├── Nmap_Cheat_Sheet.pdf
-│   ├── Wireshark_Filters_Cheat_Sheet.pdf
-│   ├── Cryptography_Algorithms_Comparison.pdf
-│   └── Cyber_Kill_Chain_Explained.pdf
-│
-└── slides/                            # Presentation materials
-    ├── Chapter_01_Introduction.pptx
-    ├── Chapter_02_Emerging_Tech.pptx
-    ├── Chapter_03_Risks_Threats.pptx
-    ├── Chapter_05_Access_Controls.pptx
-    ├── Chapter_06_Cryptography.pptx
-    └── Chapter_07_Malware_Attack_Vectors.pptx
+└── resources/                                   # Supplementary Learning Materials
+    │
+    ├── case-studies/                            # Real-world security incidents
+    │   ├── Case_Study_Colonial_Pipeline.pdf
+    │   ├── Case_Study_Equifax_Breach.pdf
+    │   ├── Case_Study_GDPR_Fines.pdf
+    │   ├── Case_Study_Log4j_Zero_Day.pdf
+    │   ├── Case_Study_SolarWinds_Supply_Chain.pdf
+    │   ├── Case_Study_Target_Breach.pdf
+    │   └── Case_Study_WannaCry_Ransomware.pdf
+    │
+    ├── cheat-sheets/                            # Quick reference guides
+    │   ├── Cryptography_Algorithms_Comparison.pdf
+    │   ├── Cyber_Kill_Chain_Explained.pdf
+    │   ├── Linux_Commands_Cheat_Sheet.pdf
+    │   ├── Nmap_Cheat_Sheet.pdf
+    │   └── Wireshark_Filters_Cheat_Sheet.pdf
+    │
+    ├── further-study/                           # Additional learning resources
+    │   ├── Certification_Study_Maps.md
+    │   ├── Podcasts_Youtube_Channels.md
+    │   └── Recommended_Books.md
+    │
+    ├── lab-exercises/                           # Hands-on laboratory exercises
+    │   ├── Lab_01_Kali_Installation.pdf
+    │   ├── Lab_02_Nmap_Scanning.pdf
+    │   ├── Lab_03_John_The_Ripper.pdf
+    │   ├── Lab_04_Wireshark_Analysis.pdf
+    │   ├── Lab_05_SQL_Injection_DVWA.pdf
+    │   ├── Lab_06_Metasploit_Basics.pdf
+    │   ├── Lab_07_Network_Sniffing.pdf
+    │   ├── Lab_08_Password_Cracking_Advanced.pdf
+    │   └── Lab_09_Incident_Response_Simulation.pdf
+    │
+    ├── policy-templates/                        # Professional security templates
+    │   ├── BCP_DRP_Template.pdf
+    │   ├── Final_Project_Report_Template.pdf
+    │   ├── Incident_Response_Plan_Template.pdf
+    │   ├── Risk_Assessment_Template.pdf
+    │   └── Security_Policy_Template.pdf
+    │
+    ├── projects/                                # Course projects
+    │   ├── Project_1_Risk_Assessment.pdf
+    │   ├── Project_2_Security_Policy_Development.pdf
+    │   ├── Project_3_BCP_DRP_Development.pdf
+    │   ├── Project_4_Penetration_Testing_Report.pdf
+    │   ├── Project_5_Compliance_Audit_Simulation.pdf
+    │   ├── project-rubrics/
+    │   │   ├── Project_Rubric_Template.pdf
+    │   │   └── Grading_Guidelines.pdf
+    │   └── sample-submissions/
+    │       ├── Sample_Project_1_Risk_Assessment.pdf
+    │       └── Sample_Project_2_Security_Policy.pdf
+    │
+    ├── security-frameworks/                     # Industry frameworks guides
+    │   ├── COBIT_2019_Overview.pdf
+    │   ├── ISO_27001_Checklist.pdf
+    │   ├── MITRE_ATTACK_Matrix_Guide.pdf
+    │   ├── NIST_CSF_Quick_Guide.pdf
+    │   ├── NIST_SP_800-30_Summary.pdf
+    │   ├── OWASP_Top_10_2023.pdf
+    │   └── PCI_DSS_Quick_Reference.pdf
+    │
+    └── slides/                                  # Presentation materials
+        ├── Chapter_01_Introduction.pptx
+        ├── Chapter_02_Emerging_Tech.pptx
+        ├── Chapter_03_Risks_Threats.pptx
+        ├── Chapter_04_Business_Drivers.pptx
+        ├── Chapter_05_Access_Controls.pptx
+        ├── Chapter_06_Cryptography.pptx
+        ├── Chapter_07_Malware_Attack_Vectors.pptx
+        ├── Chapter_08_Security_Operations.pptx
+        └── Chapter_09_Auditing_Monitoring.pptx
 ```
 
 ---
