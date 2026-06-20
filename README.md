@@ -121,26 +121,26 @@ information-security-repo/
 │
 ├── exams/                                       # Examinations and Assessments
 │   ├── chapter-quizzes/
-│   │   ├── Quiz_01_Introduction.tex
-│   │   ├── Quiz_02_Emerging_Tech.tex
-│   │   ├── Quiz_03_Risks_Threats.tex
-│   │   ├── Quiz_04_Business_Drivers.tex
-│   │   ├── Quiz_05_Access_Controls.tex
-│   │   ├── Quiz_06_Cryptography.tex
-│   │   ├── Quiz_07_Malware.tex
-│   │   ├── Quiz_08_Security_Ops.tex
-│   │   └── Quiz_09_Auditing_Monitoring.tex
+│   │   ├── Quiz_01_Introduction.pdf
+│   │   ├── Quiz_02_Emerging_Tech.pdf
+│   │   ├── Quiz_03_Risks_Threats.pdf
+│   │   ├── Quiz_04_Business_Drivers.pdf
+│   │   ├── Quiz_05_Access_Controls.pdf
+│   │   ├── Quiz_06_Cryptography.pdf
+│   │   ├── Quiz_07_Malware.pdf
+│   │   ├── Quiz_08_Security_Ops.pdf
+│   │   └── Quiz_09_Auditing_Monitoring.pdf
 │   │
 │   ├── answer-keys/
-│   │   ├── Quiz_01_Answer_Key.tex
-│   │   ├── Quiz_02_Answer_Key.tex
-│   │   ├── Quiz_03_Answer_Key.tex
-│   │   ├── Quiz_04_Answer_Key.tex
-│   │   ├── Quiz_05_Answer_Key.tex
-│   │   ├── Quiz_06_Answer_Key.tex
-│   │   ├── Quiz_07_Answer_Key.tex
-│   │   ├── Quiz_08_Answer_Key.tex
-│   │   └── Quiz_09_Answer_Key.tex
+│   │   ├── Quiz_01_Answer_Key.pdf
+│   │   ├── Quiz_02_Answer_Key.pdf
+│   │   ├── Quiz_03_Answer_Key.pdf
+│   │   ├── Quiz_04_Answer_Key.pdf
+│   │   ├── Quiz_05_Answer_Key.pdf
+│   │   ├── Quiz_06_Answer_Key.pdf
+│   │   ├── Quiz_07_Answer_Key.pdf
+│   │   ├── Quiz_08_Answer_Key.pdf
+│   │   └── Quiz_09_Answer_Key.pdf
 │   │            
 │
 └── resources/                                   # Supplementary Learning Materials
