@@ -97,8 +97,13 @@ Together, Kim and Solomon bring practical, real-world security expertise grounde
 information-security-repo/
 ├── README.md                          # Main course overview
 ├── books/                             # Recommended reading materials
+│   ├── Countdown_to_Zero_Day_Stuxnet.pdf
+│   ├── Dark_Wire.pdf
+│   ├── Ghost_in_the_Wires.pdf
 │   ├── Kim_D_Fundamentals_of_Info_Sys_Sec.pdf
 │   ├── Practical_Malware_Analysis.pdf
+│   ├── Secrets_Lies_Digital_Security.pdf
+│   ├── The_Art_of_Deception.pdf
 │   ├── Tribe_of_Hackers.pdf
 │   └── Web_Application_Hackers_Handbook.pdf
 │
