@@ -10,9 +10,6 @@
 [![Documentation](https://img.shields.io/badge/docs-complete-brightgreen.svg)]()
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)]()
 
----
-
-**Instructor:** Guuleed Maxamuud Aw Abdi
 
 ---
 
