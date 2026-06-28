@@ -31,16 +31,6 @@ Whether you are a student pursuing a career in cybersecurity, an IT professional
 
 ---
 
-## 👨‍🏫 Instructor Information
-
-**Guuleed Maxamuud Aw Abdi**
-
-- Information Security Professional and Educator
-- Expertise in security operations, risk management, and penetration testing
-- Committed to building the next generation of cybersecurity professionals
-- Contact:guuleedmaxamuud40@gmail.com
-
----
 
 ## 📖 Course Description
 
@@ -491,26 +481,3 @@ This course material is provided for **educational purposes only**.
 ![GitHub watchers](https://img.shields.io/github/watchers/guuly05/information-security-lessons?style=social)
 ---
 
-## 📄 Quick Reference Card
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│               INFORMATION SECURITY QUICK REFERENCE             │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  CIA TRIAD          │  ACCESS CONTROL      │  CRYPTOGRAPHY     │
-│  ─────────          │  ─────────────       │  ───────────      │
-│  • Confidentiality  │  • Identification    │  • Symmetric      │
-│  • Integrity        │  • Authentication    │  • Asymmetric     │
-│  • Availability     │  • Authorization     │  • Hashing        │
-│                     │  • Accountability    │  • PKI            │
-│                                                                 │
-│  RISK MANAGEMENT    │  MALWARE TYPES       │  SECURITY OPS     │
-│  ─────────────      │  ─────────────       │  ───────────      │
-│  • Identify         │  • Virus             │  • IDS/IPS        │
-│  • Assess           │  • Worm              │  • SIEM           │
-│  • Mitigate         │  • Trojan            │  • Incident Resp. │
-│  • Monitor          │  • Ransomware        │  • BCP/DRP        │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
